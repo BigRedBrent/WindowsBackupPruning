@@ -1,11 +1,11 @@
 # Windows Backup Pruning
 This will look into your Windows Backup folder and delete the oldest backups.
 
-You can download the installer here:  
+**You can download the installer here:**  
 https://github.com/BigRedBrent/WindowsBackupPruning/raw/master/WindowsBackupPruning.exe
 
 Find the latest list of changes here:  
-https://github.com/BigRedBrent/WindowsBackupPruning/raw/master/Windows%20Backup%20Pruning/Changelog.txt
+https://github.com/BigRedBrent/WindowsBackupPruning/blob/master/CHANGELOG.md
 
 Please post your questions or requests for this script here:  
 https://github.com/BigRedBrent/WindowsBackupPruning/issues
