@@ -1,3 +1,3 @@
 #include-once
 Global $Name = "Windows Backup Pruning"
-Global $Version = "5.2"
+Global $Version = "5.3"

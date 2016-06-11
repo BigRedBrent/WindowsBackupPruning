@@ -1,6 +1,9 @@
 RELEASE NOTES
 =============
 
+5.3
+- Removed UPX compression. (May have been causing some anti-virus false positives.)
+
 5.2
 - Consolidated installer into one file.
 
