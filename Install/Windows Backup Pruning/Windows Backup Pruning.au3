@@ -1,3 +1,4 @@
+#NoTrayIcon
 #include <Misc.au3>
 #include <MsgBoxConstants.au3>
 Local $Title = "Windows Backup Pruning"

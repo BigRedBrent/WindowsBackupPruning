@@ -1,6 +1,7 @@
+#NoTrayIcon
+#RequireAdmin
 #include "..\variables.au3"
 Local $Title = $Name & " v" & $Version & " Uninstaller"
-#RequireAdmin
 #include <MsgBoxConstants.au3>
 #include "_SelfDelete.au3"
 
