@@ -14,7 +14,7 @@ https://github.com/BigRedBrent/WindowsBackupPruning/issues
 **If you have even five or ten dollars to spare, it would mean an awful lot. Thank you for your support.**
 
 Use this link to send donations of $12 or more:  
-https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&item_name=Windows+Backup+Pruning&hosted_button_id=E76FTEGUBMACA
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&item_name=Windows%20Backup%20Pruning&hosted_button_id=E76FTEGUBMACA
 
 Use this micro payment link to send donations of less than $12:  
-https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&item_name=Windows+Backup+Pruning+-+Micro+Payment&hosted_button_id=3HD6FEDT7EJXQ
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&item_name=Windows%20Backup%20Pruning%20-%20Micro%20Payment&hosted_button_id=3HD6FEDT7EJXQ
